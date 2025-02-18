@@ -1,0 +1,8 @@
+-------------------------------------------------
+gpfFT on All, Target Dataset: chameleon, acc: 0.2644 ± 0.0062
+gpfFT on All, Target Dataset: chameleon, auroc: 0.5745 ± 0.0065
+gpfFT on All, Target Dataset: chameleon, f1: 0.1936 ± 0.0069
+-------------------------------------------------
+gpfFT on All, Target Dataset: chameleon, acc: 0.2621 ± 0.0000
+gpfFT on All, Target Dataset: chameleon, auroc: 0.5790 ± 0.0000
+gpfFT on All, Target Dataset: chameleon, f1: 0.1890 ± 0.0000

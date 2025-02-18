@@ -1,0 +1,8 @@
+-------------------------------------------------
+gpfFT on All, Target Dataset: pubmed, acc: 0.4978 ± 0.0000
+gpfFT on All, Target Dataset: pubmed, auroc: 0.7119 ± 0.0000
+gpfFT on All, Target Dataset: pubmed, f1: 0.4707 ± 0.0000
+-------------------------------------------------
+gpfFT on All, Target Dataset: pubmed, acc: 0.4981 ± 0.0000
+gpfFT on All, Target Dataset: pubmed, auroc: 0.7123 ± 0.0000
+gpfFT on All, Target Dataset: pubmed, f1: 0.4712 ± 0.0000

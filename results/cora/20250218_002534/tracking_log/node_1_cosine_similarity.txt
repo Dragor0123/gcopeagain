@@ -1,0 +1,9 @@
+
+Epoch 0: Node Label: 6, Majority Label: 6
+-4.496324807405471802e-02
+
+Epoch 10: Node Label: 5, Majority Label: 5
+1.712979972362518311e-01
+
+Epoch 40: Node Label: 6, Majority Label: 6
+-4.496324807405471802e-02
