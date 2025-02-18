@@ -49,12 +49,13 @@ def assign_global_node_indices(data_loader, classifier=None):
                 # CPU로 이동하는 부분을 공통으로 처리
                 node_features = batch.x[local_idx].clone().cpu()
 
-                if classifier is not None:
+                #if classifier is not None:
+                if False:
                     case = classifier.classify(node_label, neighbor_labels)
                     if case in node_mappings:
                         node_mappings[case].append((global_node_count, node_features))
                 else:
-                    # 기존 로직
+                    # 기존 
                     if all(nl == node_label for nl in neighbor_labels):
                         node_mappings['case1'].append((global_node_count, node_features))
                     elif len(torch.unique(neighbor_labels)) == 1 and neighbor_labels[0] != node_label:

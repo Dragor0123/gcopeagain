@@ -1,0 +1,3 @@
+
+Epoch 0: Node Label: 1, Majority Label: 1
+1.284481137990951538e-01

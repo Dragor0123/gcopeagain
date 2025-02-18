@@ -1,0 +1,3 @@
+
+Epoch 70: Node Label: 4, Majority Label: 4
+4.873483180999755859e-01

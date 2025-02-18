@@ -103,7 +103,7 @@ Section('adapt', 'Adaptation Configs').enable_if(
     repeat_times = Param(int, default=1), #10
     method = Param(OneOf(['finetune', 'prog', 'gpf']), default='finetune'),
     pretrained_file = Param(File(), required=True,default='storage/tmp/pretrained_model.pt'),
-    epoch = Param(int, default=50),
+    epoch = Param(int, default=100),
     batch_size = Param(int, default=10),
 )
 

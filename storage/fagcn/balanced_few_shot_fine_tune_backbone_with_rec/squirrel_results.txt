@@ -2,3 +2,11 @@
 gpfFT on All, Target Dataset: squirrel, acc: 0.2209 ± 0.0000
 gpfFT on All, Target Dataset: squirrel, auroc: 0.5195 ± 0.0000
 gpfFT on All, Target Dataset: squirrel, f1: 0.1937 ± 0.0000
+-------------------------------------------------
+gpfFT on All, Target Dataset: squirrel, acc: 0.2185 ± 0.0000
+gpfFT on All, Target Dataset: squirrel, auroc: 0.5195 ± 0.0000
+gpfFT on All, Target Dataset: squirrel, f1: 0.1910 ± 0.0000
+-------------------------------------------------
+gpfFT on All, Target Dataset: squirrel, acc: 0.2207 ± 0.0000
+gpfFT on All, Target Dataset: squirrel, auroc: 0.5195 ± 0.0000
+gpfFT on All, Target Dataset: squirrel, f1: 0.1934 ± 0.0000

@@ -1,0 +1,12 @@
+
+Epoch 20: Node Label: 0, Majority Label: 0
+1.256686151027679443e-01
+
+Epoch 30: Node Label: 2, Majority Label: 2
+1.887401491403579712e-01
+
+Epoch 80: Node Label: 2, Majority Label: 2
+1.887401491403579712e-01
+
+Epoch 90: Node Label: 1, Majority Label: 1
+4.830378592014312744e-01
