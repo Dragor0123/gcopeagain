@@ -470,7 +470,7 @@ def gpf(
 
     # ----- 모듈화된 노드 선정/트래킹 파트 시작 -----
     # 첫 번째 epoch에서 노드 분류 (모듈화된 함수 사용)
-    node_mappings = assign_global_node_indices(loaders['train'])
+    node_mappings = assign_global_node_indices(loaders['train'].dataset)
     # 추적할 노드 선택 (각 case별 2개)
     tracked_nodes = select_nodes_for_tracking(node_mappings, num_per_case=2)
     # 임베딩 추적기 초기화 (예: 10 epoch마다 추적)
